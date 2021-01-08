@@ -1,1 +1,1 @@
-# Sentiment_analysis_food_review_project_using Simple Recurrent Neural Network
+# Sentiment_analysis_food_review_project_using Simple Recurrent Neural Network 
